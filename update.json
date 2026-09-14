@@ -1,5 +1,5 @@
 {
-  "newVersionCode": 13,
+  "newVersionCode": 14,
   "apkUrl": "https://github.com/slaffik82-ops/LingoStack-Updates/raw/main/release_2.3.573.apk",
   "releaseNotes": "Большое обновление LingoStack 2.3:\n1. Добавлен поиск по словарным словам и глаголам.\n2. Умные орфографические пары-ловушки в русском языке.\n3. Толкование значений словарных слов.\n4. Отображение версии и подписи на главном экране."
 }
